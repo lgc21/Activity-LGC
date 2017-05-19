@@ -1,4 +1,4 @@
-Ceci est un fichier txt de qualité car il va nous permettre de ne pas oublier les précédents leçons que nous avons apprises ainsi que des notions d'utilisations de VIM.
+Ceci est un fichier txt de qualité car il va nous permettre de ne pas oublier les précédentes leçons que nous avons apprises ainsi que des notions d'utilisations de VIM.
 
 VIM
 Déplacement 
@@ -13,3 +13,27 @@ w: se déplacer de mot en mot
 :q : quitter
 
 :wq : enregistrer puis quitter
+
+
+Les opérations standard (copier, coller, annuler...)
+x: effacer les lettres
+
+d: effacer des mots, des lignes..
+
+dd: supprimer une ligne
+
+dw : supprimer un mot
+
+d0 et d$ : supprimer le début ou la fin de la ligne
+
+yy: copier une ligne en mémoire
+
+p : coller
+
+r: remplacer une lettre
+
+u : annuler les modifications
+
+g : sauter à la ligne n°..
+
+A à la prochaine modifications je citerai les opérations avancées 
