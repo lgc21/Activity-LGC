@@ -1,4 +1,4 @@
-Ceci est un fichier txt de qualité car il va nous permettre de ne pas oublier les précédentes leçons que nous avons apprises ainsi que des notions d'utilisations de VIM.
+Ceci est un fichier txt de qualité car il va nous permettre d'apprendre les  notions d'utilisations de VIM.
 
 VIM
 Déplacement 
@@ -15,7 +15,7 @@ w: se déplacer de mot en mot
 :wq : enregistrer puis quitter
 
 
-Les opérations standard (copier, coller, annuler...)
+Les opérations standards (copier, coller, annuler...)
 x: effacer les lettres
 
 d: effacer des mots, des lignes..
@@ -37,3 +37,33 @@ u : annuler les modifications
 g : sauter à la ligne n°..
 
 A à la prochaine modifications je citerai les opérations avancées 
+
+
+Operations avancées (split, fusion, recherche...)
+/: rechercher un mot
+
+:s : rechercer et remplacer du texte
+
+:r : fusion de fichiers
+
+le découpage d'écran (split)
+
+:sp : découper l'écran horizontalement
+
+:vsp : découper l'écran verticalement
+
+les principaux raccourcis en écran splitté : 
+Chaque morceau de l'écran est appelé viewport
+
+CTRL+w puis CTRL+w : navigue de viewport en viewport. Répétez l'opération plusieurs fois pour accéder au vieuxport désiré.
+
+Ctrl + w puis j : déplace le curseur pour aller au viewport juste en dessous. La même chose fonctionne avec les touches h, k et l que l'on utilise traditionnellement pour se déplacer dans Vim.
+Ctrl + w puis + : agrandit le viewport actuel.
+Ctrl + w puis - : réduit le viewport actuel.
+Ctrl + w puis = : égalise à nouveau la taille des viewports.
+Ctrl + w puis r : échange la position des viewports. Fonctionne aussi avec « R » majuscule pour échanger en sens inverse.
+Ctrl + w puis q : ferme le viewport actuel.
+
+:! : lancer une commande externe.
+
+
