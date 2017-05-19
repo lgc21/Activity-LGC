@@ -10,4 +10,15 @@ Et même récupérer du code depuis un autre repository.
 
  À partir de GitHub, vous pouvez copier un repository sur votre machine. Pour cela, il vous suffit de rechercher le repository qui vous intéresse sur GitHub, de vous y placer, puis d'utiliser l'option "clone URL" en bas à droite de l'écran. 
 
+Après avoir cloner on peut synchroniser les modifications que nous avons faites dans notre repo sur notre marchine avec notre repo sur Github.
+Grâce à : git push origin master.
+
+Cette commande demande à Git :
+
+"Envoie mes modifs dans la branche master de mon remote origin."
+
+ La branche master est la branche qui contient le code courant de votre repo GitHub. Ne vous préoccupez pas trop du terme "branche", on y reviendra par la suite.
+Le remote sur lequel vous envoyez votre code est appelé origin par défaut. Ici, ce remote est GitHub. Si vous aviez plusieurs remotes (par exemple, votre téléphone portable ou un 2e ordinateur), vous pourriez envoyer votre code sur un remote "téléphone" ou "ordi2".
+
+
 
