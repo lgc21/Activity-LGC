@@ -1,0 +1,8 @@
+GitHub est un service en ligne qui permet d'héberger ses repositories de code. GitHub est un outil gratuit pour héberger du code open source, et propose également des plans payants pour les projets de code privés. C'est le numéro 1 mondial et il héberge plus d'une dizaine de millions de repositories ! 
+
+Grâce à celà on peut : 
+
+Communiquer avec d'autres développeurs et signaler des problèmes de code en déclarant des "issues" ;
+Partager des morceaux de code en ligne à l'aide de "gists" ;
+Proposer des modifications de code à d'autres repos en faisant des "pull requests" ;
+Et même récupérer du code depuis un autre repository.
