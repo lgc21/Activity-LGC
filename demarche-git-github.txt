@@ -6,3 +6,8 @@ Communiquer avec d'autres développeurs et signaler des problèmes de code en d�
 Partager des morceaux de code en ligne à l'aide de "gists" ;
 Proposer des modifications de code à d'autres repos en faisant des "pull requests" ;
 Et même récupérer du code depuis un autre repository.
+
+
+ À partir de GitHub, vous pouvez copier un repository sur votre machine. Pour cela, il vous suffit de rechercher le repository qui vous intéresse sur GitHub, de vous y placer, puis d'utiliser l'option "clone URL" en bas à droite de l'écran. 
+
+
