@@ -1,6 +1,7 @@
-GitHub est un service en ligne qui permet d'héberger ses repositories de code. GitHub est un outil gratuit pour héberger du code open source, et propose également des plans payants pour les projets de code privés. C'est le numéro 1 mondial et il héberge plus d'une dizaine de millions de repositories ! 
+GitHub est un service en ligne qui permet d'héberger ses repositories de code. C'est un outil gratuit d'hébergement de code open source. Il propose aussi des hébergements payants pour les projets de code privés.
+Enfin ,c'est le numéro 1 mondial et il héberge plus d'une dizaine de millions de repositories ! 
 
-Grâce à celà on peut : 
+Grâce à cette outil on peut : 
 
 Communiquer avec d'autres développeurs et signaler des problèmes de code en déclarant des "issues" ;
 Partager des morceaux de code en ligne à l'aide de "gists" ;
@@ -8,17 +9,18 @@ Proposer des modifications de code à d'autres repos en faisant des "pull reques
 Et même récupérer du code depuis un autre repository.
 
 
- À partir de GitHub, vous pouvez copier un repository sur votre machine. Pour cela, il vous suffit de rechercher le repository qui vous intéresse sur GitHub, de vous y placer, puis d'utiliser l'option "clone URL" en bas à droite de l'écran. 
+De plus, on peut copier un repository sur notre  machine. Pour cela, il suffit de rechercher le repository qui nous intéresse sur GitHub, de nous y placer, puis d'utiliser l'option "clone URL" en bas à droite de l'écran. 
 
 Après avoir cloner on peut synchroniser les modifications que nous avons faites dans notre repo sur notre marchine avec notre repo sur Github.
 Grâce à : git push origin master.
 
 Cette commande demande à Git :
-
 "Envoie mes modifs dans la branche master de mon remote origin."
 
- La branche master est la branche qui contient le code courant de votre repo GitHub. Ne vous préoccupez pas trop du terme "branche", on y reviendra par la suite.
-Le remote sur lequel vous envoyez votre code est appelé origin par défaut. Ici, ce remote est GitHub. Si vous aviez plusieurs remotes (par exemple, votre téléphone portable ou un 2e ordinateur), vous pourriez envoyer votre code sur un remote "téléphone" ou "ordi2".
+ La branche master  contient le code courant de notre repo GitHub. 
+Le remote sur lequel nous envoyons le code est appelé origin par défaut. Ici, ce remote est GitHub. 
 
-
+Merci de votre participation et de votre temps.
+J'espère que celà vous a été utile.
+Bien cordialement.
 
