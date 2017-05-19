@@ -10,6 +10,9 @@ Ce fichier "README.txt" aura donc pour but de présenter le projet.
 Je vais ensuite créer deux autres fichiers qui vont contenir des scripts de code ou de texte.
 Dans ces deux fichiers il y aura au moins 4 commits distincts montrant l'ajout puis la modification de certain fichier. Après toutes les étapes mon activité sera terminée avec succés.
 
+Ensuite je devrais copier l'URL de mon repository GITHUB crée spécialement pour cette activité (format: https://github.com/votrenomd'utilisateur/votreprojet)
+Enfin, j'indiquerai mon URL dans le document texte fournit dans l'exercice, l'enregistrer, le compresseer puis l'envoyer.
+
 Mon but est d'obtenir ma certification grâce à ce module. En tout cas j'aime beaucoup le principe et les manoeuvre pouvant être faite.
 
 Merci beaucoup pour votre lecture.
