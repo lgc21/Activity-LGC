@@ -1,0 +1,15 @@
+Ceci est un fichier txt de qualité car il va nous permettre de ne pas oublier les précédents leçons que nous avons apprises ainsi que des notions d'utilisations de VIM.
+
+VIM
+Déplacement 
+h,j,k,l : se déplacer dans tous les sens
+
+Les touches "0" et "$" : Se déplacer en début et fin de ligne.
+
+w: se déplacer de mot en mot
+
+:w : enregister un fichier
+
+:q : quitter
+
+:wq : enregistrer puis quitter
