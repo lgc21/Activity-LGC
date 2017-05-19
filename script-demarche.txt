@@ -67,3 +67,45 @@ Ctrl + w puis q : ferme le viewport actuel.
 :! : lancer une commande externe.
 
 
+
+Les options de VIM
+Le fonctionnement des options
+
+Les options peuvent être activées après le démarrage de Vim en lançant des commandes. Cependant, ces options seront « oubliées » dès que vous quitterez le logiciel.
+Si vous voulez que les options soient activées à chaque démarrage de Vim, il faut créer un fichier de configuration .vimrc dans votre répertoire personnel.
+
+Activer des options en mode commande
+
+La première méthode consiste à activer l'option en mode commande. Une fois Vim ouvert, pour activer l'option nommée « option », tapez :
+
+:set option
+
+Pour la désactiver, tapez :
+
+:set nooption
+
+Il faut donc ajouter le préfixe no devant le nom de l'option pour la désactiver.
+
+Certaines options doivent être précisées avec une valeur, comme ceci :
+
+:set option=valeur
+
+Pour connaître l'état d'une option :
+
+:set option?
+
+
+syntax : activer la coloration syntaxique
+
+background : coloration sur un fond sombre
+
+number : afficher les numéros de ligne
+
+showcmd : afficher la commande en cours
+
+mouse : activer le support de la souris
+
+ignorecase : ignorer la casse lors de la recherche
+
+Voici les options essentiels de VIM. 
+Dans mon prochain fichier texte nous verrons les élements essentiels de GIT & GIT HUB
